@@ -19,4 +19,4 @@ def on_click(channel):
 
 
 def on_click_test(channel):
-    print("clicked")
+    print("clicked " + channel)
