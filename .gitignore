@@ -1,0 +1,70 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Images
+.bmp
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen### macOS template
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDBK
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+.idea/ProcButton.iml
+.idea/dataSources.local.xml
+.idea/dataSources.xml
+.idea/dataSources/
+.idea/deployment.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/sqldialects.xml
+.idea/webServers.xml
+.idea/workspace.xml
+__pycache__/
+output.bmp
+reference/1-1.54inch_e-Paper_Module_code/arduino/
+reference/1-1.54inch_e-Paper_Module_code/raspberrypi/bcm2835/
+reference/1-1.54inch_e-Paper_Module_code/raspberrypi/python/
+reference/1-1.54inch_e-Paper_Module_code/raspberrypi/wiringpi/
+reference/1-1.54inch_e-Paper_Module_code/stm32/
+reference/PullUpDownSwitch.jpg
+reference/Raspberry-Pi-GPIO-pinouts.png
+reference/Serial-Interfaces1.png
+reference/epaper_modified/epd1in54.py
+reference/epaper_modified/epd1in54.pyc
+reference/epaper_modified/epdif.py
+reference/epaper_modified/epdif.pyc
+reference/epaper_modified/monocolor.bmp
+reference/epaper_modified/monocolor2.bmp
+reference/epaper_modified/readme.txt
+reference/epaper_modified/start.py
+reference/todo.txt
+star_filled_512-32.png
+star_thick_outline_512-32.png
+stars/
